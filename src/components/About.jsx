@@ -4,7 +4,7 @@ import SectionEyebrow from "./SectionEyebrow.jsx";
 
 export default function About() {
   return (
-    <section className="scroll-mt-20.5 bg-white py-28 max-md:scroll-mt-18 max-md:py-19" id="tentang">
+    <section className="bg-white py-28 max-md:py-19" id="tentang">
       <div className="mx-auto w-[min(1160px,calc(100%-64px))] max-lg:w-[min(100%-48px,760px)] max-md:w-[calc(100%-40px)] max-[420px]:w-[calc(100%-34px)]">
         <div className="grid grid-cols-[1fr_.8fr] items-end gap-25 max-lg:gap-11.25 max-md:grid-cols-1 max-md:gap-5.5">
           <div>

@@ -4,7 +4,7 @@ import SectionEyebrow from "./SectionEyebrow.jsx";
 
 export default function Services() {
   return (
-    <section className="scroll-mt-20.5 bg-pale py-28 max-md:scroll-mt-18 max-md:py-19" id="layanan">
+    <section className="bg-pale py-28 max-md:py-19" id="layanan">
       <div className="mx-auto w-[min(1160px,calc(100%-64px))] max-lg:w-[min(100%-48px,760px)] max-md:w-[calc(100%-40px)] max-[420px]:w-[calc(100%-34px)]">
         <div className="mb-10.5 flex items-end justify-between gap-12.5 max-md:mb-7.75 max-md:flex-col max-md:items-start max-md:gap-4.25">
           <div>

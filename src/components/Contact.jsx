@@ -7,7 +7,7 @@ export default function Contact() {
 
   return (
     <section
-      className="relative scroll-mt-20.5 overflow-hidden bg-navy text-white before:absolute before:-right-30 before:-top-62.5 before:size-162.5 before:rounded-full before:border before:border-white/10 before:content-[''] max-md:scroll-mt-18"
+      className="relative overflow-hidden bg-navy text-white before:absolute before:-right-30 before:-top-62.5 before:size-162.5 before:rounded-full before:border before:border-white/10 before:content-['']"
       id="kontak"
     >
       <div className="relative mx-auto flex min-h-100 w-[min(1160px,calc(100%-64px))] items-center justify-between gap-12.5 py-19.25 max-lg:w-[min(100%-48px,760px)] max-md:w-[calc(100%-40px)] max-md:flex-col max-md:items-start max-md:gap-8.5 max-md:py-17.25 max-[420px]:w-[calc(100%-34px)]">
