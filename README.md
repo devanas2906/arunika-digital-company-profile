@@ -22,7 +22,25 @@ This project has not been deployed. Run it locally by following the setup instru
 
 ## 📸 Screenshots
 
-Screenshots are not included in the repository yet.
+### Home & Hero Section
+
+![Home & Hero Section](/docs/screenshots/hero-section.png)
+
+### About Section
+
+![About Section](/docs/screenshots/about-section.png)
+
+### Service Section
+
+![Service Section](/docs/screenshots/service-section.png)
+
+### Portfolio Section
+
+![Portfolio Section](/docs/screenshots/portfolio-section.png)
+
+### Contact Section
+
+![Contact Section](/docs/screenshots/contact-section.png)
 
 ## 🛠️ Tech Stack
 
