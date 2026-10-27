@@ -4,7 +4,9 @@ A responsive, single-page company profile website for Arunika Digital, a fiction
 
 ## 🌐 Live Demo
 
-This project has not been deployed. Run it locally by following the setup instructions below.
+Try Arunika Digital company profile here: https://arunika-digital-company-profile.pages.dev/
+
+Explore the company profile directly in your browser without installing anything.
 
 ## ✨ Features
 
